@@ -71,7 +71,7 @@ Follow the following instructions to get a copy of the program and run in your l
 
 * Clone the following repository.
 ```
-https://github.com/PabloYepes27/holberton-system_engineering-devops.git
+https://github.com/V-ope/alx-system_engineering-devops.git
 ```
 
 * Directory:
@@ -138,5 +138,5 @@ Read or watch:
 
 ## Author:
 * ** OPEYEMI VICTOR OLUWAPELUMI
- - [Github] (https//www.github.com/V-ope)
+ - [Github] (https//github.com/V-ope)
  - [Email] (opeyemivictor04@gmail.com)
