@@ -53,7 +53,7 @@ https://github.com/V-ope/alx-system_engineering-devops/0x06-regular_expressions.
 
 ## Tasks:clipboard:
 
-### [0. Simply matching Holberton](./0-simply_match_holberton.rb)
+### [0. Simply matching school](./0-simply_match_school.rb)
 * 
 
 
