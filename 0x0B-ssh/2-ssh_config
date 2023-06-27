@@ -3,7 +3,7 @@
 #connect my server without using password
 
 Host *
-	HostName 54.82.173.67
+	HostName 54.167.198.237
 	User ubuntu
 	IdentityFile ~/.ssh/school
 	PasswordAuthentication no
