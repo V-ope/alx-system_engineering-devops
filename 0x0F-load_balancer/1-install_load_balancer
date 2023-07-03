@@ -11,7 +11,7 @@ frontend  V-ope-frontend
         bind *:80
         mode http
         default_backend V-ope-backend
-backend ehoneah-backend
+backend V-ope-backend
         balance roundrobin
         server 220193-web-01 54.167.198.237:80 check
         server 220193-web-02 18.210.33.189:80 check
