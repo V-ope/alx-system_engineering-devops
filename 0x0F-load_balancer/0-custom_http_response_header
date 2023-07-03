@@ -1,3 +1,9 @@
+#!/usr/bin/env bash
+# This script configures Nginx so that its HTTP response
+
+apt-get -y update
+apt-get -y install nginx
+
 service nginx start
 
 ufw allow  'Nginx HTTP' #nginx should be listed on port 80
